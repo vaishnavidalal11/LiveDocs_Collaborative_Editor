@@ -1,4 +1,10 @@
----
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank">
+    <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner" />
+  </a>
+
+  <br />
+  
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000" alt="Next.js" />
     <img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript" />
