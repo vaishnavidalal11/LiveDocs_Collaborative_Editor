@@ -72,7 +72,6 @@ It’s built with:
   <img src="./screenshots/Screenshot%202025-08-11%20010116.png" width="90%" />
 </p>
 
-
 ---
 
 ## 🚀 Quick Start
