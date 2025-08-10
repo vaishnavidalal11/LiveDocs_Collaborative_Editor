@@ -56,24 +56,6 @@ It’s built with:
 ✅ **Notifications** – For shares, comments, and updates  
 ✅ **Fully Responsive** – Works on mobile, tablet, and desktop  
 
----
-
-## 🖼 Preview
-
-<p align="center">
-  <img src="./screenshots/Screenshot%202025-08-11%20004733.png" width="45%" />
-  <img src="./screenshots/Screenshot%202025-08-11%20004901.png" width="45%" />
-</p>
-<p align="center">
-  <img src="./screenshots/Screenshot%202025-08-11%20005236.png" width="45%" />
-  <img src="./screenshots/Screenshot%202025-08-11%20005835.png" width="45%" />
-</p>
-<p align="center">
-  <img src="./screenshots/Screenshot%202025-08-11%20010116.png" width="90%" />
-</p>
-
----
-
 ## 🚀 Quick Start
 
 ### 📦 Prerequisites
