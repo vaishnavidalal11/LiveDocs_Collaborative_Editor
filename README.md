@@ -56,6 +56,7 @@ It’s built with:
 ✅ **Notifications** – For shares, comments, and updates  
 ✅ **Fully Responsive** – Works on mobile, tablet, and desktop  
 
+---
 ## 🚀 Quick Start
 
 ### 📦 Prerequisites
