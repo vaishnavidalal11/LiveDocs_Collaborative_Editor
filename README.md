@@ -1,7 +1,3 @@
-
----
-
-````markdown
 <div align="center">
   <a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank">
     <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner" />
@@ -92,12 +88,11 @@ Install the following:
 ```bash
 git clone https://github.com/JavaScript-Mastery-Pro/livedocs.git
 cd livedocs
-````
+```
 
 ---
 
 ### 📚 Install Dependencies
-
 ```bash
 npm install
 ```
@@ -105,7 +100,6 @@ npm install
 ---
 
 ### ⚙️ Set Environment Variables
-
 Create a `.env` file in the root directory:
 
 ```env
@@ -119,34 +113,22 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
 LIVEBLOCKS_SECRET_KEY=
 ```
-
 🔑 **Get your credentials** from [Clerk](https://clerk.com/) and [Liveblocks](https://liveblocks.io/).
 
 ---
 
 ### 🏃 Run the Project
-
 ```bash
 npm run dev
 ```
-
 Then visit **[http://localhost:3000](http://localhost:3000)** 🚀
 
 ---
 
 ## 💡 Inspiration
-
 This project was inspired by **Google Docs** and aims to replicate its real-time collaborative experience with modern tools and clean architecture.
 
 ---
 
 ## 📜 License
-
 This project is licensed under the MIT License – free to use, modify, and distribute.
-
-```
-
----
-
-```
-
